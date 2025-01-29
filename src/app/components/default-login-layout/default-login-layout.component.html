@@ -1,0 +1,37 @@
+<main>
+
+    <section class="main-section">
+        <h1>Lorem ipsum dolor sit amet.</h1>
+        <img src="/assets/svg/main-illustration.svg" alt="rapaz andando de skate">
+        
+        </section>
+        
+
+<section class="form-section">
+    <img src="/assets/svg/logo.svg" alt="logo">
+    <h2>{{ title }}</h2>
+    
+    <ng-content></ng-content>
+
+    <div class="btn-wrapper">
+        <button class="btn-primary" (click)="submit()" >{{ primaryBtnText }}</button>
+
+        <div class="divider">
+
+        <div></div>
+
+        <span>or</span>
+
+        <div></div>
+
+        </div>
+
+        <button class="btn-secondary" (click)="navigate()">{{ secondaryBtnText }}</button>
+    </div>
+
+ </section>
+
+
+
+
+</main>
