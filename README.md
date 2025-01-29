@@ -6,3 +6,6 @@ This login page project was developed based on the video tutorial [https://www.y
 Following the tutorial, I recreated the interface and structure of the original project, using the same technologies and best practices presented. The main goal was to learn and practice developing modern and responsive login pages.
 
 All credit for the original design and implementation goes to Fernanda Kipper. This version was created solely for study and technical improvement purposes.  
+
+![image](https://github.com/user-attachments/assets/b8f692fb-91f1-43b7-8807-e34c8822eb89)
+
